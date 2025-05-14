@@ -17,6 +17,7 @@ const listaProdutos = [
   ["https://caene-unb.github.io/geladeira-unb/imgs/agua_com_gas.webp", "Aguá com gás", "", "BEBIDA", "4.00"],
   ["https://caene-unb.github.io/geladeira-unb/imgs/bombomLimao.webp", "Bom Bom Limão", "Com recheio cremoso de limão da fruta", "DOCES", "4.00"],
   ["https://caene-unb.github.io/geladeira-unb/imgs/bombomMorango.webp", "Bom Bom Morango", "Com recheio cremoso de morango da fruta", "DOCES", "4.00"],
+  ["https://caene-unb.github.io/geladeira-unb/imgs/bombomMaracuja.webp", "Bom Bom de Maracujá", "Com recheio cremoso de maracujá da fruta", "DOCES", "4.00"],
   ["https://caene-unb.github.io/geladeira-unb/imgs/paodemel.png", "Pão de Mel", "Com recheio cremoso de café", "DOCES", "5.00"],
   ["https://caene-unb.github.io/geladeira-unb/imgs/mateleaoGas.webp", "Mate Leão com Gás", "", "BEBIDA", "5.50"],
   ["https://caene-unb.github.io/geladeira-unb/imgs/pinklemonade.webp", "Pink Lemonade St.Pierre", "", "BEBIDA", "5.50"],
@@ -32,4 +33,5 @@ const listaProdutos = [
   ["https://caene-unb.github.io/geladeira-unb/imgs/snickersDark.webp", "Snickers Dark", "", "DOCES", "5.00"],
   ["https://caene-unb.github.io/geladeira-unb/imgs/snickersPeMoleque.webp", "Snickers Pé de Moleque", "", "DOCES", "5.00"],
   ["https://caene-unb.github.io/geladeira-unb/imgs/balinhaAzeinha.jpg", "Azedinha", "Drops azedinho sabor Uva", "DOCES", "1.50"],
+  ["https://caene-unb.github.io/geladeira-unb/imgs/cafeCapsula.webp", "Café Cápsula", "", "", "2.50"],
 ];
